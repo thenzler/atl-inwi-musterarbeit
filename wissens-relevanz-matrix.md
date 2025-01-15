@@ -5,108 +5,107 @@
 ### Wissen (Blau)
 
 1. Technisches Wissen
-   - Programmiersprachen (durch Hobby-Projekte & YouTube-Tutorials)
-     * Qualität: 4 (sehr gut)
-     * Relevanz: 5 (zukunftsweisend)
-   - Audio-/Videoproduktion (aus Band & YouTube)
-     * Qualität: 4 (sehr gut)
-     * Relevanz: 4 (hohe Relevanz)
-   - Fotografie & Bildbearbeitung
+   - Programmierung/Scripting (Gaming-Mods & Excel)
      * Qualität: 3 (durchschnittlich)
-     * Relevanz: 4 (hohe Relevanz)
-
-2. Fachliches Wissen
-   - IT-Infrastruktur (Homelab-Experimente)
-     * Qualität: 3 (durchschnittlich)
-     * Relevanz: 4 (hohe Relevanz)
-   - Betriebswirtschaft (Bandmanagement & Vereinsarbeit)
-     * Qualität: 4 (sehr gut)
      * Relevanz: 5 (zukunftsweisend)
-   - Projektmanagement (Community-Events)
+   - IT-Support (Schule & Beruf)
      * Qualität: 4 (sehr gut)
-     * Relevanz: 5 (zukunftsweisend)
-
-3. Kreatives Wissen
-   - Musiktheorie (15 Jahre Keyboard)
+     * Relevanz: 4 (hohe Relevanz)
+   - Gaming-Systeme & Streaming
      * Qualität: 4 (sehr gut)
      * Relevanz: 3 (durchschnittlich)
-   - Design-Grundlagen (YouTube & Fotografie)
-     * Qualität: 3 (durchschnittlich)
+
+2. Kaufmännisches Wissen
+   - Büroprozesse (KV-Ausbildung)
+     * Qualität: 4 (sehr gut)
      * Relevanz: 4 (hohe Relevanz)
+   - Vereinsadministration
+     * Qualität: 4 (sehr gut)
+     * Relevanz: 3 (durchschnittlich)
+   - Excel-Automatisierung
+     * Qualität: 5 (hervorragend)
+     * Relevanz: 5 (zukunftsweisend)
+
+3. Gaming & E-Sport
+   - Spielmechaniken & Strategien
+     * Qualität: 5 (hervorragend)
+     * Relevanz: 3 (durchschnittlich)
+   - Streaming-Technologien
+     * Qualität: 3 (durchschnittlich)
+     * Relevanz: 3 (durchschnittlich)
 
 ### Handeln (Grün)
 
-1. Projektmanagement
-   - Event-Organisation (Sportevents & Bandauftritte)
+1. Organisatorische Fähigkeiten
+   - Projektmanagement (Verein)
      * Qualität: 4 (sehr gut)
      * Relevanz: 5 (zukunftsweisend)
-   - Team-Koordination (Band & Sportverein)
+   - Event-Organisation (LAN-Parties)
      * Qualität: 4 (sehr gut)
-     * Relevanz: 5 (zukunftsweisend)
-
-2. Kreative Umsetzung
-   - Content-Erstellung (YouTube & Blog)
-     * Qualität: 4 (sehr gut)
-     * Relevanz: 4 (hohe Relevanz)
-   - Musik-Produktion
-     * Qualität: 3 (durchschnittlich)
      * Relevanz: 3 (durchschnittlich)
 
-3. Soziale Interaktion
-   - Community Management (Online & Offline)
+2. ADHS-Management
+   - Hyperfokus-Nutzung
      * Qualität: 4 (sehr gut)
      * Relevanz: 5 (zukunftsweisend)
-   - Mentoring (Sport & Programmierung)
+   - Task-Priorisierung
      * Qualität: 3 (durchschnittlich)
+     * Relevanz: 5 (zukunftsweisend)
+
+3. Team-Leadership
+   - Clan-Führung
+     * Qualität: 4 (sehr gut)
+     * Relevanz: 4 (hohe Relevanz)
+   - Vorstandsarbeit
+     * Qualität: 4 (sehr gut)
      * Relevanz: 4 (hohe Relevanz)
 
 ### Können (Rot)
 
 1. Technische Fähigkeiten
-   - Softwareentwicklung (Hobby & Beruf)
+   - IT-Problemlösung
      * Qualität: 4 (sehr gut)
      * Relevanz: 5 (zukunftsweisend)
-   - Audio/Video-Editing
+   - Prozessautomatisierung
      * Qualität: 4 (sehr gut)
-     * Relevanz: 4 (hohe Relevanz)
+     * Relevanz: 5 (zukunftsweisend)
 
-2. Organisatorische Fähigkeiten
-   - Zeit- und Ressourcenmanagement (Sport & Projekte)
-     * Qualität: 4 (sehr gut)
-     * Relevanz: 5 (zukunftsweisend)
-   - Veranstaltungsplanung
+2. Kreative Fähigkeiten
+   - Musik (Metal)
      * Qualität: 3 (durchschnittlich)
-     * Relevanz: 3 (durchschnittlich)
-
-3. Künstlerische Fähigkeiten
-   - Musikalische Performance
-     * Qualität: 4 (sehr gut)
-     * Relevanz: 3 (durchschnittlich)
-   - Visuelle Gestaltung
+     * Relevanz: 2 (eher nicht relevant)
+   - Content Creation
      * Qualität: 3 (durchschnittlich)
      * Relevanz: 4 (hohe Relevanz)
 
-## Matrix-Visualisierung
-[Grafische Darstellung der Matrix mit farblichen Markierungen]
+3. Sportliche Fähigkeiten
+   - Klettern
+     * Qualität: 3 (durchschnittlich)
+     * Relevanz: 3 (durchschnittlich)
+   - Badminton
+     * Qualität: 4 (sehr gut)
+     * Relevanz: 2 (eher nicht relevant)
 
 ## Schlussfolgerungen
 
-Die Analyse meiner Wissens-Relevanz-Matrix zeigt interessante Verbindungen zwischen meinen verschiedenen Interessensgebieten:
-
-1. Synergie-Effekte:
-   - Die Kombination aus technischem Wissen und kreativen Fähigkeiten ermöglicht einzigartige Lösungsansätze
-   - Projekt- und Zeitmanagement-Skills aus Sport und Musik unterstützen technische Projekte
-   - Community-Management-Erfahrungen bereichern die berufliche Tätigkeit
+1. Stärken-Analyse:
+   - Die Kombination aus KV-Grundlagen und IT-Affinität bildet ein starkes Fundament
+   - Gaming- und E-Sport-Erfahrungen bieten übertragbare Führungskompetenzen
+   - ADHS-bedingter Hyperfokus kann als besondere Stärke genutzt werden
 
 2. Entwicklungsfelder:
-   - IT-Sicherheitswissen sollte vertieft werden
-   - Design-Kenntnisse könnten für technische Dokumentation ausgebaut werden
-   - Mentoring-Fähigkeiten haben Entwicklungspotenzial
+   - Programmier-Skills könnten von Gaming-Modding zu professioneller Entwicklung ausgebaut werden
+   - Task-Priorisierung und Fokusmanagement benötigen weitere Strukturierung
+   - Content-Creation-Fähigkeiten haben Ausbaupotenzial
 
-3. Handlungsempfehlungen:
-   - Integration von kreativem Content in technische Dokumentation
-   - Ausbau der Community-Building-Fähigkeiten
-   - Fokussierte Weiterbildung in IT-Kernbereichen
-   - Erhalt der musikalischen Fähigkeiten als Ausgleich
+3. Zukunftsperspektiven:
+   - Fokus auf Prozessautomatisierung und IT-Problemlösung
+   - Integration von Gaming-Projektmanagement in berufliche Kontexte
+   - Nutzung der Vereinserfahrung für professionelles Leadership
 
-Die Matrix zeigt, dass meine vielfältigen Interessen keine Zerstreuung darstellen, sondern sich gegenseitig bereichern und zu einem ganzheitlichen Kompetenzprofil beitragen.
+4. Balance-Aspekte:
+   - Sport (Klettern) als wichtiger Ausgleich beibehalten
+   - Musik als kreatives Ventil pflegen
+   - Gaming gezielt für Netzwerk und Skills nutzen
+
+Die Matrix zeigt, dass vermeintliche 'Hobby-Kompetenzen' aus Gaming und E-Sport, kombiniert mit der strukturierten KV-Ausbildung, ein uniquen Kompetenzprofil ergeben. Die ADHS-bedingten Herausforderungen wurden durch Sport und strukturierte Tätigkeiten gut kompensiert und können als Stärken genutzt werden.
