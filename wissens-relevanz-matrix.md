@@ -3,95 +3,110 @@
 ## Kategorisierung und Bewertung
 
 ### Wissen (Blau)
-1. Programmiersprachen (Java, Python, JavaScript)
-   - Qualität: 4 (sehr gut)
-   - Relevanz: 5 (zukunftsweisend)
 
-2. IT-Infrastruktur & Netzwerke
-   - Qualität: 3 (durchschnittlich)
-   - Relevanz: 4 (hohe Relevanz)
+1. Technisches Wissen
+   - Programmiersprachen (durch Hobby-Projekte & YouTube-Tutorials)
+     * Qualität: 4 (sehr gut)
+     * Relevanz: 5 (zukunftsweisend)
+   - Audio-/Videoproduktion (aus Band & YouTube)
+     * Qualität: 4 (sehr gut)
+     * Relevanz: 4 (hohe Relevanz)
+   - Fotografie & Bildbearbeitung
+     * Qualität: 3 (durchschnittlich)
+     * Relevanz: 4 (hohe Relevanz)
 
-3. Betriebswirtschaftliche Grundlagen
-   - Qualität: 4 (sehr gut)
-   - Relevanz: 5 (zukunftsweisend)
+2. Fachliches Wissen
+   - IT-Infrastruktur (Homelab-Experimente)
+     * Qualität: 3 (durchschnittlich)
+     * Relevanz: 4 (hohe Relevanz)
+   - Betriebswirtschaft (Bandmanagement & Vereinsarbeit)
+     * Qualität: 4 (sehr gut)
+     * Relevanz: 5 (zukunftsweisend)
+   - Projektmanagement (Community-Events)
+     * Qualität: 4 (sehr gut)
+     * Relevanz: 5 (zukunftsweisend)
 
-4. Datenbank-Design
-   - Qualität: 4 (sehr gut)
-   - Relevanz: 5 (zukunftsweisend)
-
-5. IT-Sicherheit
-   - Qualität: 3 (durchschnittlich)
-   - Relevanz: 5 (zukunftsweisend)
+3. Kreatives Wissen
+   - Musiktheorie (15 Jahre Keyboard)
+     * Qualität: 4 (sehr gut)
+     * Relevanz: 3 (durchschnittlich)
+   - Design-Grundlagen (YouTube & Fotografie)
+     * Qualität: 3 (durchschnittlich)
+     * Relevanz: 4 (hohe Relevanz)
 
 ### Handeln (Grün)
+
 1. Projektmanagement
-   - Qualität: 4 (sehr gut)
-   - Relevanz: 5 (zukunftsweisend)
+   - Event-Organisation (Sportevents & Bandauftritte)
+     * Qualität: 4 (sehr gut)
+     * Relevanz: 5 (zukunftsweisend)
+   - Team-Koordination (Band & Sportverein)
+     * Qualität: 4 (sehr gut)
+     * Relevanz: 5 (zukunftsweisend)
 
-2. Problemanalyse
-   - Qualität: 4 (sehr gut)
-   - Relevanz: 4 (hohe Relevanz)
+2. Kreative Umsetzung
+   - Content-Erstellung (YouTube & Blog)
+     * Qualität: 4 (sehr gut)
+     * Relevanz: 4 (hohe Relevanz)
+   - Musik-Produktion
+     * Qualität: 3 (durchschnittlich)
+     * Relevanz: 3 (durchschnittlich)
 
-3. Teamführung
-   - Qualität: 3 (durchschnittlich)
-   - Relevanz: 5 (zukunftsweisend)
-
-4. Kundenberatung
-   - Qualität: 4 (sehr gut)
-   - Relevanz: 4 (hohe Relevanz)
-
-5. Präsentationstechniken
-   - Qualität: 3 (durchschnittlich)
-   - Relevanz: 4 (hohe Relevanz)
+3. Soziale Interaktion
+   - Community Management (Online & Offline)
+     * Qualität: 4 (sehr gut)
+     * Relevanz: 5 (zukunftsweisend)
+   - Mentoring (Sport & Programmierung)
+     * Qualität: 3 (durchschnittlich)
+     * Relevanz: 4 (hohe Relevanz)
 
 ### Können (Rot)
-1. Softwareentwicklung
-   - Qualität: 4 (sehr gut)
-   - Relevanz: 5 (zukunftsweisend)
 
-2. Systemintegration
-   - Qualität: 3 (durchschnittlich)
-   - Relevanz: 4 (hohe Relevanz)
+1. Technische Fähigkeiten
+   - Softwareentwicklung (Hobby & Beruf)
+     * Qualität: 4 (sehr gut)
+     * Relevanz: 5 (zukunftsweisend)
+   - Audio/Video-Editing
+     * Qualität: 4 (sehr gut)
+     * Relevanz: 4 (hohe Relevanz)
 
-3. Anforderungsanalyse
-   - Qualität: 4 (sehr gut)
-   - Relevanz: 5 (zukunftsweisend)
+2. Organisatorische Fähigkeiten
+   - Zeit- und Ressourcenmanagement (Sport & Projekte)
+     * Qualität: 4 (sehr gut)
+     * Relevanz: 5 (zukunftsweisend)
+   - Veranstaltungsplanung
+     * Qualität: 3 (durchschnittlich)
+     * Relevanz: 3 (durchschnittlich)
 
-4. Qualitätssicherung
-   - Qualität: 3 (durchschnittlich)
-   - Relevanz: 4 (hohe Relevanz)
-
-5. Technische Dokumentation
-   - Qualität: 4 (sehr gut)
-   - Relevanz: 3 (durchschnittlich)
+3. Künstlerische Fähigkeiten
+   - Musikalische Performance
+     * Qualität: 4 (sehr gut)
+     * Relevanz: 3 (durchschnittlich)
+   - Visuelle Gestaltung
+     * Qualität: 3 (durchschnittlich)
+     * Relevanz: 4 (hohe Relevanz)
 
 ## Matrix-Visualisierung
-
-```
-[Matrix-Visualisierung als Koordinatensystem:
-X-Achse: Wissensqualität (1-5)
-Y-Achse: Relevanz (1-5)
-Einträge farblich markiert nach Kategorie]
-```
+[Grafische Darstellung der Matrix mit farblichen Markierungen]
 
 ## Schlussfolgerungen
 
-Aus der Matrix lassen sich folgende zentrale Erkenntnisse ableiten:
+Die Analyse meiner Wissens-Relevanz-Matrix zeigt interessante Verbindungen zwischen meinen verschiedenen Interessensgebieten:
 
-1. Stärkefelder:
-   - Die Kombination aus Programmierung und Softwareentwicklung zeigt sowohl hohe Qualität als auch Relevanz
-   - Projektmanagement und Anforderungsanalyse sind gut ausgeprägt und zukunftsrelevant
-   - Betriebswirtschaftliche Kenntnisse ergänzen die technische Expertise optimal
+1. Synergie-Effekte:
+   - Die Kombination aus technischem Wissen und kreativen Fähigkeiten ermöglicht einzigartige Lösungsansätze
+   - Projekt- und Zeitmanagement-Skills aus Sport und Musik unterstützen technische Projekte
+   - Community-Management-Erfahrungen bereichern die berufliche Tätigkeit
 
 2. Entwicklungsfelder:
-   - IT-Sicherheit zeigt hohe Relevanz bei mittlerer Qualität → Weiterbildungsbedarf
-   - Teamführung als wichtige Kompetenz bedarf weiterer Entwicklung
-   - Systemintegration könnte angesichts der Relevanz verbessert werden
+   - IT-Sicherheitswissen sollte vertieft werden
+   - Design-Kenntnisse könnten für technische Dokumentation ausgebaut werden
+   - Mentoring-Fähigkeiten haben Entwicklungspotenzial
 
 3. Handlungsempfehlungen:
-   - Fokussierte Weiterbildung im Bereich IT-Sicherheit
-   - Ausbau der Führungskompetenzen durch Schulungen und praktische Erfahrungen
-   - Vertiefung der Systemintegrationskenntnisse durch Praxisprojekte
-   - Erhalt und Ausbau der Stärken in Softwareentwicklung und Projektmanagement
+   - Integration von kreativem Content in technische Dokumentation
+   - Ausbau der Community-Building-Fähigkeiten
+   - Fokussierte Weiterbildung in IT-Kernbereichen
+   - Erhalt der musikalischen Fähigkeiten als Ausgleich
 
-Die Matrix zeigt eine solide Basis mit klaren Entwicklungspotenzialen. Die identifizierten Handlungsfelder bilden eine gute Grundlage für die weitere berufliche Entwicklung.
+Die Matrix zeigt, dass meine vielfältigen Interessen keine Zerstreuung darstellen, sondern sich gegenseitig bereichern und zu einem ganzheitlichen Kompetenzprofil beitragen.
