@@ -5,102 +5,109 @@
 ### Strengths (Stärken)
 
 #### Fachliche Stärken:
-- Programmierbegeisterung seit der Jugend (LEGO Mindstorms)
-- Starkes analytisches Denken durch jahrelanges Schachspielen
-- Praktische IT-Erfahrung durch YouTube-Kanal-Betreuung
-- Verständnis für Systemzusammenhänge durch Modding-Community
+- Breites IT-Grundwissen durch jahrelanges Gaming und Modding
+- Fundierte kaufmännische Basis durch KV-Ausbildung
+- Ausgprägtes Excel-Automatisierungs-Know-how
+- Praktische IT-Support-Erfahrung
 
 #### Methodische Stärken:
-- Strukturierte Arbeitsweise durch Musikerfahrung (15 Jahre Keyboard)
-- Gutes Zeitmanagement durch Vereinbarung von Sport und Studium
-- Effektive Dokumentation durch Videotutorial-Erstellung
-- Problemlösungskompetenz durch Geocaching-Hobby
+- ADHS-bedingter Hyperfokus für intensive Arbeitsphasen
+- Kreatives Problemlösen durch ungewöhnliche Perspektiven
+- Multitasking-Fähigkeit aus Gaming und E-Sport
+- Effektive Teamkoordination durch Clan-Leadership
 
 #### Persönliche Stärken:
-- Hohe Lernbereitschaft durch vielfältige Interessen
-- Gute Kommunikation durch Band- und Vereinsarbeit
-- Belastbarkeit durch regelmäßiges Ausdauertraining
-- Kreativität durch Fotografie und Musikproduktion
+- Hohe Anpassungsfähigkeit durch ADHS-Management
+- Starke Community-Building-Fähigkeiten
+- Authentische Führungsqualitäten aus Vereinsarbeit
+- Belastbarkeit durch Sport und Gaming
 
 ### Weaknesses (Schwächen)
 
 #### Fachliche Schwächen:
-- Manchmal zu detailverliebt (erkennbar beim Modellbau)
-- Noch ausbaufähiges Security-Wissen
-- Verbesserungswürdige Mobile-Development-Skills
-- Begrenzte Cloud-Computing-Erfahrung
+- Lücken in strukturierter Programmierung
+- Formale IT-Zertifizierungen fehlen noch
+- Teilweise unsystematische Dokumentation
+- Manchmal zu spielerischer Ansatz
 
 #### Methodische Schwächen:
-- Gelegentlich zu viele Projekte parallel (Band, Sport, Coding)
-- Perfektionismus bei kreativen Projekten
-- Manchmal zu lange Recherchephasen
+- ADHS-bedingte Fokusschwankungen
+- Manchmal übermäßiges Perfektionsstreben
+- Zeitmanagement bei uninteressanten Aufgaben
+- Schwierigkeiten bei streng linearen Prozessen
 
 #### Persönliche Schwächen:
-- Schwierigkeit "Nein" zu sagen bei spannenden Projekten
-- Tendenz zur Überoptimierung (auch beim Mountainbike-Setup)
-- Manchmal zu selbstkritisch bei kreativen Arbeiten
+- Tendenz zur Übernahme zu vieler Projekte
+- Manchmal zu intensive Gaming-Phasen
+- Ungeduld bei langsamen Entscheidungsprozessen
 
 ## Externe Sicht (nicht veränderbar)
 
 ### Opportunities (Chancen)
 
 #### Marktbezogene Chancen:
-- Wachsender Bedarf an IT-Projektmanagement
-- Möglichkeit, technisches Wissen mit Kreativität zu verbinden
-- Nachfrage nach praxisnahen Tutorial-Erstellern
-- Trend zu technischer Weiterbildung
+- Wachsende Bedeutung von Gaming-Industrie
+- Nachfrage nach kreativen IT-Lösungen
+- Trend zu agilen Arbeitsweisen passt zu ADHS
+- E-Sport-Branche im Aufschwung
 
 #### Entwicklungschancen:
-- Ausbau des YouTube-Kanals für Tech-Tutorials
-- Kombination von Musik und Programmierung
-- Networking durch Sport-Community
-- Internationale Projektmöglichkeiten
+- Verbindung von KV und IT als Unique Selling Point
+- Weiterbildung in Prozessautomatisierung
+- Ausbau der Community-Management-Skills
+- Zertifizierungsmöglichkeiten in IT
 
 #### Karrierechancen:
-- Führungspositionen durch Vereins- und Banderfahrung
-- Spezialisierung als kreativer Tech-Consultant
-- Entwicklung eigener Schulungskonzepte
+- Führungspositionen durch Vereinserfahrung
+- Brückenbauer zwischen Business und IT
+- Spezialisierung auf Gaming-Industry
+- Selbstständigkeit im IT-Bereich
 
 ### Threats (Risiken)
 
 #### Marktrisiken:
+- Formale Qualifikationsanforderungen
+- Vorurteile gegenüber Gaming-Background
 - Schnelle technologische Veränderungen
-- Steigende Anforderungen an Zertifizierungen
-- Konkurrenzdruck im Tech-Bereich
+- Wettbewerbsdruck im IT-Sektor
 
 #### Persönliche Risiken:
-- Balance zwischen Hobby-Projekten und Beruf
-- Zeitmanagement bei vielfältigen Interessen
-- Gefahr der Überlastung durch Parallel-Projekte
+- Work-Life-Balance bei Gaming-Hobby
+- ADHS-Management unter Stress
+- Burnout-Gefahr durch Hyperfokus
 
 #### Entwicklungsrisiken:
-- Schwierigkeit, alle Interessen zu vertiefen
-- Kosten für Equipment (Musik, Foto, Tech)
-- Vereinbarkeit von Weiterbildung und Hobbys
+- Zeit für formale Weiterbildung
+- Vereinbarkeit von Sport, Gaming und Beruf
+- Fokussierung auf spezifische Expertise
 
 ## Meine Stärke-Chancen-Strategie
 
-Meine Strategie basiert auf der Verknüpfung meiner technischen Fähigkeiten mit kreativen und sportlichen Elementen:
+### 1. Unique Position entwickeln
+- KV-Grundlagen mit IT-Skills verbinden
+- ADHS-Stärken als Innovationstreiber nutzen
+- Gaming-Expertise professionell einsetzen
 
-### 1. Content Creation & Tech
-- YouTube-Kanal ausbauen für Tech-Tutorials
-- Kombination von Musik-Produktion und Coding
-- Fotografie-Skills für technische Dokumentation nutzen
+### 2. Community & Leadership
+- Vereins-Führungserfahrung ausbauen
+- Gaming-Community professionell nutzen
+- Brückenbauer zwischen Welten werden
 
-### 2. Community & Networking
-- Verbindung von Sport-Community und Tech-Szene
-- Workshops an der Schnittstelle Kreativität/Technik
-- Aufbau einer lokalen Maker-Community
+### 3. Skill-Entwicklung
+1. Technisch:
+   - Programmier-Skills systematisch ausbauen
+   - Prozessautomatisierung vertiefen
+   - IT-Zertifizierungen gezielt angehen
 
-### 3. Persönliche Entwicklung
-- Balance zwischen Sport und Tech-Projekten
-- Kreative Pausen durch Musik und Fotografie
-- Fokussierte Weiterbildung in Kernbereichen
+2. Methodisch:
+   - ADHS-Management weiter optimieren
+   - Hyperfokus strategisch einsetzen
+   - Work-Life-Gaming-Balance etablieren
 
 ### 4. Konkrete Maßnahmen
-- Wöchentlicher Tech-Blog mit Foto-Dokumentation
-- Monatliche Community-Treffen organisieren
-- Quartalsweise Skill-Review und Anpassung
-- Integration von Sport in den Arbeitsalltag
+- Regelmäßige Klettertermine als Ausgleich
+- Feste Gaming-Zeiten definieren
+- Wöchentliche Lerneinheiten für IT
+- Monatliche Vereinsprojekte
 
-Diese Strategie nutzt meine vielfältigen Interessen als Stärke und verbindet sie sinnvoll mit meiner beruflichen Entwicklung.
+Diese Strategie nutzt die unkonventionelle Kombination aus KV-Background, Gaming-Expertise und ADHS-bedingten Stärken als Alleinstellungsmerkmal. Der Fokus liegt auf der Integration aller Lebensbereiche statt deren strikter Trennung.
