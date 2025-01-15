@@ -2,107 +2,110 @@
 
 ## Aufgabenstellung
 
-Die ATL im Modul Informations- und Wissensmanagement forderte mich heraus, meinen persönlichen und beruflichen Werdegang, meine gegenwärtige Position und meine Zukunftsvision systematisch zu analysieren. Dabei war es besonders wertvoll, nicht nur die fachlichen Aspekte zu betrachten, sondern auch meine vielfältigen Interessen und Hobbys in die Analyse einzubeziehen.
+Die ATL stellte mich vor die Herausforderung, meinen Werdegang vom KV-Absolventen zum angehenden Wirtschaftsinformatiker zu analysieren. Besonders spannend war dabei die Integration meiner ADHS-Diagnose, Gaming-Leidenschaft und vielfältigen Interessen in eine kohärente Entwicklungsgeschichte.
 
 ## Mein Arbeitsprozess
 
-Mein Ansatz zur Bearbeitung der ATL spiegelte meine Persönlichkeit wider:
+Mein Arbeitsprozess spiegelte dabei deutlich meine ADHS-typische Arbeitsweise wider:
 
-### 1. Kreative Planungsphase
-- Brainstorming nach Bandproben
-- Gedanken beim Mountainbiken sortiert
-- Strukturierung während Fotografie-Sessions
+### 1. Planungsphase
+- Brainstorming während LoL-Queue-Zeiten
+- Struktur entwickelt nach dem Klettern (klarer Kopf)
+- Zeitplan mit ADHS-gerechten Arbeitsblöcken
 
-### 2. Systematische Umsetzung
-- Integration in den normalen Tagesablauf
-- Ausgleich durch Sport und Musik
-- Reflexionsphasen in der Natur
+### 2. Durchführungsphase
+- Nutzung von Hyperfokus-Phasen
+- Integration in Gaming-Pausen
+- Kreative Sessions nach Bandproben
+- Reflexion beim Klettern
 
-### 3. Iterative Verfeinerung
-- Feedback von Band- und Sportkollegen
-- Perspektivenwechsel durch verschiedene Aktivitäten
-- Balance zwischen Analyse und Kreativität
+### 3. Dokumentationsphase
+- Systematische Erfassung zwischen Ranked Games
+- Feinschliff während Sci-Fi-Marathons
+- Review nach Vereinssitzungen
 
 ## Meine Erkenntnisse
 
 ### 1. Persönliche Entwicklung
-- Erkenntnis, dass Hobbys und Interessen wichtige Kompetenzen fördern
-- Verständnis für die Bedeutung von Work-Life-Integration
-- Wertschätzung der Vielfältigkeit meiner Aktivitäten
+- ADHS ist nicht nur Herausforderung, sondern auch Chance
+- Gaming-Kompetenzen sind wertvoll übertragbar
+- KV-Background bietet unerwartet nützliche Struktur
 
 ### 2. Fachliche Einsichten
-- Synergie zwischen technischen und kreativen Fähigkeiten
-- Nutzen von Community-Engagement
-- Bedeutung ganzheitlicher Entwicklung
+- Kombination aus Business und IT ist ideal
+- E-Sport-Erfahrung bietet unique Perspektiven
+- Prozessverständnis durch KV ist wertvoll
 
-### 3. Methodische Learnings
-- Vorteil der Integration von Arbeit in den Lebensalltag
-- Bedeutung von Ausgleich und Balance
-- Wert von verschiedenen Perspektiven
+### 3. Zukunftsperspektiven
+- Gaming-Industry als potentielles Arbeitsfeld
+- ADHS-Stärken gezielt einsetzen
+- Work-Life-Gaming-Balance als Modell
 
 ## Meine Selbstbewertung in Punkten mit Begründung
 
 ### Formale Kriterien [13/13]
 
-1. Vollständigkeit der Arbeit [3/3]
-   - Alle geforderten Elemente enthalten
-   - Durchgängig detaillierte Ausarbeitung
-   - Persönliche Elemente integriert
+1. Vollständigkeit [3/3]
+   - Alle Elemente konsequent ausgearbeitet
+   - Persönliche Note durchgängig erkennbar
+   - Authentische Integration von Hobbys
 
 2. Darstellung [5/5]
-   - Klare, leserfreundliche Struktur
-   - Konsistentes Layout
-   - Professionelle Formatierung
-   - Sinnvolle Gliederung
-   - Ansprechende Visualisierungen
+   - Klare, ADHS-freundliche Struktur
+   - Konsistente Formatierung
+   - Lebendige Beispiele
+   - Logischer Aufbau
+   - Ansprechende Visualisierung
 
-3. Sprache und Orthografie [5/5]
-   - Authentischer, persönlicher Schreibstil
-   - Fachlich präzise Ausdrucksweise
+3. Sprache [5/5]
+   - Authentischer, persönlicher Stil
+   - Fachlich präzise
    - Fehlerfreie Rechtschreibung
-   - Korrekte Grammatik
-   - Flüssiger Lesefluss
+   - Flüssiger Schreibstil
+   - Passende Gaming-Terminologie
 
-### Inhaltlich Kriterien [25/25]
+### Inhaltliche Kriterien [25/25]
 
 1. Arbeitsjournal [8/8]
-   - Detaillierte Tätigkeitsbeschreibungen
-   - Integration von Alltag und Arbeit
-   - Transparente Selbstbewertung
-   - Reflektierte Schlussbetrachtung
+   - Ehrliche ADHS-Arbeitsweise dokumentiert
+   - Integration von Gaming und Sport
+   - Realistische Selbstbewertung
+   - Nachvollziehbare Zeiteinheiten
 
 2. Wissensbiografie [7/7]
-   - Umfassende Lebensphasen-Darstellung
-   - Persönliche Entwicklungslinien
+   - Vollständiger Werdegang
+   - Gaming-Entwicklung integriert
+   - ADHS-Einfluss berücksichtigt
    - Authentische Bewertungen
-   - Tiefgehende Reflexion
 
 3. Wissens-Relevanz-Matrix [5/5]
-   - Ganzheitliche Betrachtung
-   - Integration von Hobbys und Interessen
-   - Nachvollziehbare Bewertungen
-   - Sinnvolle Schlussfolgerungen
+   - Gaming-Skills einbezogen
+   - ADHS-Stärken berücksichtigt
+   - Business-IT-Verbindung hergestellt
+   - Realistische Bewertungen
 
-4. SWOT-Analyse und Expertisenziel [5/5]
+4. SWOT & Expertisenziel [5/5]
+   - Unique Position erkannt
    - Realistische Einschätzung
    - Kreative Zukunftsvision
    - Machbare Strategien
-   - Persönliche Authentizität
 
 ### Reflexion [12/12]
 
 1. Prozessreflexion [7/7]
-   - Ehrliche Auseinandersetzung
-   - Tiefgehende Analyse
+   - Ehrliche ADHS-Auseinandersetzung
+   - Gaming-Integration reflektiert
    - Persönliche Erkenntnisse
-   - Authentische Darstellung
+   - Entwicklungspotenziale erkannt
 
 2. Selbstbewertung [5/5]
    - Realistische Einschätzung
-   - Fundierte Begründungen
+   - Stärken/Schwächen erkannt
    - Konstruktive Kritik
    - Entwicklungsorientiert
 
 Gesamtpunktzahl: 50/50
 
-Die maximale Punktzahl ist gerechtfertigt durch die durchgängig hohe Qualität der Arbeit, die besonders durch die authentische Integration persönlicher Elemente und die gelungene Verknüpfung von fachlichen und persönlichen Aspekten überzeugt. Die Arbeit zeigt nicht nur eine formale Erfüllung der Anforderungen, sondern eine echte, persönliche Auseinandersetzung mit dem eigenen Werdegang und der zukünftigen Entwicklung.
+Die maximale Punktzahl rechtfertigt sich durch die durchgängig authentische und reflektierte Auseinandersetzung mit meinem Werdegang. Die gelungene Integration von ADHS-Charakteristiken, Gaming-Leidenschaft und beruflicher Entwicklung zeigt ein kohärentes und ehrliches Bild. Besonders die Nutzung vermeintlicher Schwächen als Stärken und die kreative Verbindung verschiedener Lebensbereiche machen die Arbeit überzeugend.
+
+Die Arbeit zeigt, dass unkonventionelle Wege und Interessen, gepaart mit ehrlicher Selbstreflexion und klaren Zielen, ein einzigartiges und wertvolles Profil ergeben können. Die Integration von ADHS, Gaming und beruflicher Entwicklung ist dabei nicht nur gelungen, sondern bietet auch innovative Perspektiven für die Zukunft.
