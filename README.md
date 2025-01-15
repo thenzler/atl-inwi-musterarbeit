@@ -1,1 +1,17 @@
-IyBBVEwgTXVzdGVyYXJiZWl0IC0gSW5mb3JtYXRpb25zLSB1bmQgV2lzc2Vuc21hbmFnZW1lbnQKCkRpZXNlIFJlcG9zaXRvcnkgZW50aMOkbHQgZWluZSBNdXN0ZXJhcmJlaXQgZsO8ciBkaWUgQW53ZW5kdW5ncy0gdW5kIFRyYW5zZmVybGVpc3R1bmcgKEFUTCkgaW0gTW9kdWwgSW5mb3JtYXRpb25zLSB1bmQgV2lzc2Vuc21hbmFnZW1lbnQuCgojIyBTdHJ1a3R1cgoKMS4gW0FyYmVpdHNqb3VybmFsXShhcmJlaXRzam91cm5hbC5tZCkKMi4gW1dpc3NlbnNiaW9ncmFmaWVdKHdpc3NlbnNiaW9ncmFmaWUubWQpCjMuIFtXaXNzZW5zLVJlbGV2YW56LU1hdHJpeF0od2lzc2Vucy1yZWxldmFuei1tYXRyaXgubWQpCjQuIFtTV09ULUFuYWx5c2VdKHN3b3QtYW5hbHlzZS5tZCkKNS4gW0V4cGVydGlzZW56aWVsXShleHBlcnRpc2VuemllbC5tZCkKNi4gW1NjaGx1c3NiZXRyYWNodHVuZ10oc2NobHVzc2JldHJhY2h0dW5nLm1kKQoKIyMgQXV0b3IKTWF4IE11c3Rlcm1hbm4KSEZXSTIzMTAKRGF0dW06IDE1LjAxLjIwMjU=
+# ATL Musterarbeit - Informations- und Wissensmanagement
+
+Diese Repository enthält eine Musterarbeit für die Anwendungs- und Transferleistung (ATL) im Modul Informations- und Wissensmanagement.
+
+## Struktur
+
+1. [Arbeitsjournal](arbeitsjournal.md)
+2. [Wissensbiografie](wissensbiografie.md)
+3. [Wissens-Relevanz-Matrix](wissens-relevanz-matrix.md)
+4. [SWOT-Analyse](swot-analyse.md)
+5. [Expertisenziel](expertisenziel.md)
+6. [Schlussbetrachtung](schlussbetrachtung.md)
+
+## Autor
+Max Mustermann
+HFWI2310
+Datum: 15.01.2025
