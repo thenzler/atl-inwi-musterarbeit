@@ -2,136 +2,152 @@
 
 ## Brainstorming-Ergebnis
 
-Das Brainstorming wurde während einer kreativen Session nach dem Bandtraining durchgeführt, was zu besonders freiem Denken führte.
+Brainstorming durchgeführt während einer League of Legends Queue-Zeit und nach dem Klettern, um beide Gehirnzustände (fokussiert und entspannt) zu nutzen.
 
 ### Cluster 1: Technische Expertise
-- Cloud Architecture (inspiriert durch Home-Server-Projekte)
-- DevOps (aus YouTube-Tutorial-Erfahrung)
-- Microservices (Band-Website-Entwicklung)
-- Container-Technologien (Hobby-Projekte)
-- CI/CD (Community-Projekte)
+- Prozessautomatisierung
+- Business Intelligence
+- Gaming Industry Tech
+- E-Sport Analytics
+- Stream Integration
 
-### Cluster 2: Kreative Technologie
-- Digitale Musikproduktion
-- Video-Content-Creation
-- Technische Dokumentation
-- Visuelle Programmierung
-- Interaktive Tutorials
+### Cluster 2: Business & Management
+- Community Management
+- E-Sport Business
+- Vereinsmanagement Digital
+- Event Organisation
+- Project Leadership
 
-### Cluster 3: Community & Education
-- Workshop-Leitung
-- Online-Kurs-Entwicklung
-- Community-Building
-- Mentoring-Programme
-- Tech-Events
+### Cluster 3: Innovation & Entwicklung
+- ADHS-optimierte Workflows
+- Gaming-Business-Integration
+- E-Sport-Management-Tools
+- Community-Platforms
+- Streaming Solutions
 
-### Cluster 4: Innovation & Entwicklung
-- Creative Coding
-- Interaktive Installationen
-- Tech-Art-Projekte
-- Educational Gaming
-- VR/AR-Entwicklung
+### Cluster 4: Content & Communication
+- Technical Writing
+- Gaming Content
+- Tutorial Creation
+- Community Building
+- Knowledge Sharing
 
 ## Gewählter Fokus
 
-Nach intensiver Reflexion, unterstützt durch Gespräche in der Musik- und Tech-Community, habe ich mich für folgendes Expertisenziel entschieden:
+Nach intensiver Reflexion (beim Klettern und während einer Metal-Playlist) kristallisierte sich folgendes Expertisenziel heraus:
 
-**Creative Technology Architect mit Fokus auf Educational Systems**
+**Business Process Automation Specialist mit Fokus auf Gaming Industry**
 
-Dieses Ziel vereint meine technische Expertise mit meiner Leidenschaft für Kreativität und Wissensvermittlung.
+Dieses Ziel verbindet optimal:
+- KV-Hintergrund (Prozessverständnis)
+- Gaming-Expertise (Branchenkenntnis)
+- ADHS-Stärken (kreative Lösungen)
+- IT-Interesse (technische Umsetzung)
 
 ## Mindmap zum Expertisenziel
 
-### Zentrum: Creative Technology Architect
+### Zentrum: Business Process Automation in Gaming
 
-#### Ast 1: Technische Basis
-- Cloud & DevOps (aus Homelab)
-- System Architecture
-- Performance Optimization
-- Security Implementation
-- API Design
+#### Ast 1: Technical Skills
+- Prozessautomatisierung
+- API Integration
+- Datenanalyse
+- Streaming Tech
+- Bot Development
 
-#### Ast 2: Kreative Komponenten
-- UI/UX Design (Fotografie-Erfahrung)
-- Audio Integration (Banderfahrung)
-- Visual Programming
-- Interactive Design
-- Motion Design
+#### Ast 2: Business Knowledge
+- Gaming Industry
+- E-Sport Economics
+- Community Management
+- Event Management
+- Marketing Analytics
 
-#### Ast 3: Educational Aspects
-- Didaktische Konzepte
-- Gamification
-- Tutorial-Systeme
-- Assessment-Tools
-- Feedback-Mechanismen
-
-#### Ast 4: Community Building
-- Event Management (Band & Sport)
-- Online Communities
-- Workshop Konzepte
-- Networking
-- Mentoring Programme
-
-#### Ast 5: Content Creation
-- Video Production (YouTube)
-- Technical Writing
-- Course Development
+#### Ast 3: Process Expertise
+- Workflow Optimization
+- ADHS-friendly Systems
+- Agile Methodologies
+- Quality Assurance
 - Documentation
-- Social Media
+
+#### Ast 4: Gaming Industry Network
+- E-Sport Teams
+- Tournament Organizers
+- Content Creators
+- Tech Companies
+- Community Leaders
+
+#### Ast 5: Personal Development
+- Work-Life-Gaming Balance
+- Leadership Skills
+- Public Speaking
+- Content Creation
+- Personal Branding
 
 ## Wegbeschreibung zum Expertisenziel
 
 ### Phase 1: Fundament (1-2 Jahre)
 
-1. Technische Zertifizierungen:
-   - Cloud Architecture
-   - DevOps Professional
-   - UI/UX Design
+1. Technical Skills:
+   - Prozessautomatisierungs-Zertifizierungen
+   - Python für Gaming Analytics
+   - Streaming API Integration
 
-2. Praktische Projekte:
-   - Aufbau einer interaktiven Lernplattform
-   - Integration von Musik-Tech-Projekten
-   - Community-Workshop-Serie
+2. Praktische Erfahrung:
+   - Vereinsprozesse digitalisieren
+   - E-Sport-Team-Management-Tools entwickeln
+   - Community-Events automatisieren
 
 ### Phase 2: Spezialisierung (2-3 Jahre)
 
-1. Weiterbildung:
-   - Educational Technology
-   - Creative Coding
-   - Advanced Audio Programming
+1. Business Development:
+   - E-Sport Business Management
+   - Gaming Industry Networks aufbauen
+   - Projekt Portfolio entwickeln
 
-2. Projekte:
-   - Entwicklung eigener Lerntools
-   - Creative Coding Workshops
-   - Tech-Art Installationen
+2. Content & Community:
+   - Tutorial-Serie starten
+   - Tech-Blog etablieren
+   - Community Workshop-Reihe
 
-### Phase 3: Integration (3-5 Jahre)
+### Phase 3: Expertise (3-5 Jahre)
 
-1. Expertise-Entwicklung:
-   - Konferenzvorträge
-   - Fachpublikationen
-   - Online-Kurse
+1. Innovation:
+   - Eigene Automatisierungstools
+   - ADHS-optimierte Workflows
+   - Gaming Business Solutions
 
-2. Community-Projekte:
-   - Gründung einer Tech-Art-Community
-   - Organisation von Hackathons
+2. Leadership:
    - Mentoring-Programm
+   - Konferenzvorträge
+   - Consulting-Tätigkeit
 
 ### Kontinuierliche Aktivitäten
 
-1. Persönliche Entwicklung:
-   - Wöchentliche Band-/Musikprojekte als kreativer Ausgleich
-   - Regelmäßiges Sport-Training für Work-Life-Balance
-   - Fotografie-Projekte für visuelles Training
+1. Work-Life-Integration:
+   - Regelmäßiges Klettern für Balance
+   - Feste Gaming-Zeiten
+   - Band-Proben als Ausgleich
 
 2. Community-Engagement:
-   - Monatliche Tech-Meetups
-   - Workshop-Leitung
-   - Blog & YouTube Content
+   - Aktives Vereinsmanagement
+   - E-Sport-Community-Building
+   - Knowledge Sharing
 
-3. Projektarbeit:
-   - Open Source Beiträge
-   - Kunst-Tech-Kollaborationen
-   - Educational Tools
+3. Skill-Development:
+   - Wöchentliche Coding-Sessions
+   - Monatliche Tech-Workshops
+   - Quarterly Skill-Review
 
-Dieser Weg verbindet meine technischen Fähigkeiten mit kreativen Ausdrucksformen und dem Wunsch, Wissen weiterzugeben. Die Integration meiner verschiedenen Interessen ermöglicht einen nachhaltigen und erfüllenden Entwicklungspfad.
+### Balance-Management
+
+1. ADHS-Strategien:
+   - Hyperfokus-Phasen für Entwicklung nutzen
+   - Klettern als Konzentrationsanker
+   - Gaming als strukturiertes Hobby
+
+2. Gesundheit & Wohlbefinden:
+   - Sport als Ausgleich
+   - Musik als kreatives Ventil
+   - Regelmäßige Pausen
+
+Dieser Entwicklungsweg nutzt meine unique Kombination aus KV-Background, Gaming-Leidenschaft und ADHS-bedingter Kreativität. Die Integration von Sport, Musik und Gaming schafft dabei die nötige Balance für nachhaltige Entwicklung.
